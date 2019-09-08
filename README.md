@@ -1,2 +1,0 @@
-# UstraaAssignment
-Created with CodeSandbox
